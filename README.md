@@ -1,4 +1,5 @@
 File contents in this repository:
+
 Decreasing_Channels_mold.SLDPRT - an editable SOLIDWORKS part file of a mold with decreasing channel sizes 
 
 Decreasing_Channels_mold.STL - a stereolithography (STL) file format for 3D printing the decreasing channels mold
