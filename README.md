@@ -1,4 +1,4 @@
-File contents in this repository:
+File content in this repository:
 
 Decreasing_Channels_mold.SLDPRT - an editable SOLIDWORKS part file of a mold with decreasing channel sizes 
 
